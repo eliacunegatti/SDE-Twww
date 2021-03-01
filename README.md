@@ -23,7 +23,7 @@ If you are missing some packages here are available all the bash command in orde
 pip install -r requirements.txt
 ```
 
-And then you must set up the ENV variables, you can find a sample [here](https://github.com/eliacunegatti/SDE-Twitter/blob/main/.env_example)
+And then you must set up the ENV variables, you can find a sample [here](https://github.com/eliacunegatti/SDE-Twww/blob/main/requirements.txt)
 After all the setup simply run the code using the command 
 ```bash
 flask run
